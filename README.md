@@ -1,6 +1,9 @@
 # UIMetrics
 
 Assumption: UI_OPEN_COUNT and VIDEO_VIEW_COUNT for a user on a day is tracked only once.
+There is no script to load the data. There is a method that will take care of loading the CSV file into needed data structures.
+
+  Time Spent: 12 hours across 2 days.
 
 a. overall Day­7 UI Retention over the month of September is 9.88% (9.881257057189941)
 
