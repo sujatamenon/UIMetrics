@@ -1,5 +1,7 @@
 # UIMetrics
 
+Assumption: UI_OPEN_COUNT and VIDEO_VIEW_COUNT for a user on a day is tracked only once.
+
 a. overall Day­7 UI Retention over the month of September is 9.88% (9.881257057189941)
 Numerator : Total Reopen Events that matched are 21611
 Denominator : Total Open Events is 218707
