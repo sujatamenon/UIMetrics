@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12a4b480-3153-4bfe-9dd5-4ec363bf781b" name="Default" comment="" />
+    <list default="true" id="12a4b480-3153-4bfe-9dd5-4ec363bf781b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/com/kamcord/tests/UIRetentionTest.java" afterPath="$PROJECT_DIR$/tests/com/kamcord/tests/UIRetentionTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kamcord.ipr" afterPath="$PROJECT_DIR$/kamcord.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kamcord.iws" afterPath="$PROJECT_DIR$/kamcord.iws" />
+    </list>
     <ignored path="kamcord.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/kamcord.ipr">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="1530">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,7 +52,7 @@
       <file leaf-file-name="kamcord.iws" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kamcord.iws">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5220" max-vertical-offset="14340">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5220" max-vertical-offset="14445">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -113,11 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UIRetention.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="UIRetention.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/kamcord/metrics/UIRetention.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7754386" vertical-offset="0" max-vertical-offset="6001">
-              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+            <state vertical-scroll-proportion="-7.3076925" vertical-offset="65" max-vertical-offset="6001">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#960#961#0" expanded="true" />
@@ -137,11 +141,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UIRetentionTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="UIRetentionTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/com/kamcord/tests/UIRetentionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="4435" max-vertical-offset="6000">
-              <caret line="315" column="51" selection-start-line="315" selection-start-column="51" selection-end-line="315" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.7263158" vertical-offset="0" max-vertical-offset="5985">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,6 +159,9 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -173,8 +180,8 @@
         <option value="$PROJECT_DIR$/tests/com.kamcord.tests/UIRetentionTest.java" />
         <option value="$PROJECT_DIR$/src/com/kamcord/metrics/Retention.java" />
         <option value="$PROJECT_DIR$/src/com/kamcord/metrics/UIRetention.java" />
-        <option value="$PROJECT_DIR$/tests/com/kamcord/tests/UIRetentionTest.java" />
         <option value="$PROJECT_DIR$/src/com/kamcord/main/MetricsMain.java" />
+        <option value="$PROJECT_DIR$/tests/com/kamcord/tests/UIRetentionTest.java" />
       </list>
     </option>
   </component>
@@ -686,10 +693,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329602" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -705,7 +712,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20100144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17910448" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17910448" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -788,7 +795,7 @@
     <entry file="file://$PROJECT_DIR$/kamcord.ipr">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="1530">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -817,16 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/com/kamcord/tests/UIRetentionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4435" max-vertical-offset="6000">
-          <caret line="315" column="51" selection-start-line="315" selection-start-column="51" selection-end-line="315" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kamcord/main/MetricsMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
@@ -847,12 +844,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kamcord/metrics/UIRetention.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7754386" vertical-offset="0" max-vertical-offset="6001">
-          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        <state vertical-scroll-proportion="-7.3076925" vertical-offset="65" max-vertical-offset="6001">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#960#961#0" expanded="true" />
             <element signature="e#993#994#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/com/kamcord/tests/UIRetentionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7263158" vertical-offset="0" max-vertical-offset="5985">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

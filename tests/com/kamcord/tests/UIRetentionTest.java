@@ -21,7 +21,7 @@ public class UIRetentionTest {
     public static void setUp() {
 
     }
-/*
+
     @Test
     //Local Test
     public void test7DayRetentionNoRangeNoFilters() {
@@ -303,7 +303,7 @@ public class UIRetentionTest {
         }
 
     }
-*/
+
     @Test
     //Local Test
     public void test7DayRetentionForSpecificDateIOSSDKFilterActualCSV() {
@@ -321,7 +321,7 @@ public class UIRetentionTest {
 
     }
 
-    /*
+
     @Test
     //Local Test
     public void test7DayRetentionForMonthNoFilterActualCSV() {
@@ -388,7 +388,6 @@ public class UIRetentionTest {
         }
 
     }
-    */
 
 }
 
